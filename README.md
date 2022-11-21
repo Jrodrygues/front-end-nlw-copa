@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/Jrodrygues/frontend-nlw-copa/blob/master/src/assets/logo.svg" alt="NLW COPA" />
+  <img src="https://github.com/Jrodrygues/front-end-nlw-copa/blob/master/src/assets/logo.svg" alt="NLW COPA" />
 
   &#xa0;
 
